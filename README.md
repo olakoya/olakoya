@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olakoya
 - 👀 I’m interested in Testing
-- 🌱 I’m currently learning Python / Cypress
-- 💞️ I’m looking to collaborate on Automation
+- 🌱 I’m currently learning Cypress | DevOps
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ola.koya1@gmail.com
 
 <!---
