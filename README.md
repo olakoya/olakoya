@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @olakoya
-- 👀 I’m interested in Testing
-- 🌱 I’m currently learning Cypress | DevOps
+- 👌🏽 I am Senior Test/QA Engineer and Certified DevOps Eng. Proefessional
+- 👀 I like learning new things
+- 🌱 I’m currently developing myself and adding projects to my DevOps Engineer Portfolio
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ola.koya1@gmail.com
 
