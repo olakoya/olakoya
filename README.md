@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olakoya
-- 👌🏽 I am Senior Test/QA Engineer and Certified DevOps Eng. Proefessional
+- 👌🏽 I am a Senior Test/QA Engineer and became a Certified DevOps Eng. Proefessional in Q1 of 2024
 - 👀 I like learning new things
 - 🌱 I’m currently developing myself and adding projects to my DevOps Engineer Portfolio
 - 💞️ I’m looking to collaborate
