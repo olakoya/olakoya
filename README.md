@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @olakoya
-- 👌🏽 I am a Senior Test/QA Engineer and became a Certified DevOps Eng. Proefessional in Q1 of 2024
+- 👌🏽 I am a Senior Test/QA Engineer
+- 💻 I became a Certified DevOps Eng. Professional in Q1 of 2024
 - 👀 I like learning new things
 - 🌱 I’m currently developing myself and adding projects to my DevOps Engineer Portfolio
+- 💫 Also developing my skills in Python Automation
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me ola.koya1@gmail.com
+- 📫 You can reach me on ola.koya1@gmail.com
+- 🙏🏾 In God I trust
+- 🫶🏾 Thank you for passing by
 
 <!---
 olakoya/olakoya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
