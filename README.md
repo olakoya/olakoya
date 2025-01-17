@@ -2,7 +2,7 @@
 - 👌🏽 I am a Senior Test/QA Engineer
 - 💻 A Certified DevOps Eng. Professional
 - 👀 I like learning new things
-- 🌱 I’m currently developing myself and adding projects to my DevOps and QA Engineer Portfolios
+- 🌱 I’m currently adding projects to my DevOps and QA Engineer Portfolios
 - 💫 A Python Automation Tester
 - 💻 Artificial Intelligence Certified
 - 💞️ I’m looking to collaborate
