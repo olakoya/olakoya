@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @olakoya
 - 👌🏽 I am a Senior Test/QA Engineer
 - 💻 A Certified DevOps Eng. Professional
+- 🌞 An Artificial Intelligence Certified
 - 👀 I like learning new things
 - 🌱 I’m currently adding projects to my DevOps and QA Engineer Portfolios
 - 💫 A Python Automation Tester
-- 💻 Artificial Intelligence Certified
 - 💞️ I’m looking to collaborate
 - 📫 You can reach me on ola.koya1@gmail.com
 - 🙏🏾 In God I trust
