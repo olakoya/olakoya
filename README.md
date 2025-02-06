@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olakoya
 - 👌🏽 I am a Senior Test/QA Engineer
 - 💻 A Certified DevOps Eng. Professional
-- 🌞 An Artificial Intelligence Certified
+- 🌞 A Certified Artificial Intelligence 
 - 👀 I like learning new things
 - 🌱 I’m currently adding projects to my DevOps and QA Engineer Portfolios
 - 💫 A Python Automation Tester
