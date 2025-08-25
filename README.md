@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olakoya
-- 👌🏽 I am a Senior Test/QA Engineer
+- 👌🏽 I am a Senior QA Engineer | DevOps Engineer | Cybersecurity Engineer
 - 💻 A Certified DevOps Eng. Professional
 - 🌞 A Certified Artificial Intelligence 
 - 👀 I like learning new things
