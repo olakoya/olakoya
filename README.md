@@ -1,18 +1,18 @@
 👋 Hi, I’m Ola Koya (@olakoya)
 
-🚀 Senior QA Engineer | DevOps Engineer | Cybersecurity Enthusiast
+🚀 Senior QA Engineer | DevOps Engineer | AI Enthusiast | Cybersecurity Enthusiast
 
 💻 Certified DevOps Professional | Certified in Artificial Intelligence
 
-🌱 Currently expanding my DevOps and QA Engineering project portfolio
+🌱 Currently expanding my AI, DevOps and QA Engineering project portfolio
 
-🧪 Skilled in Python, Selenium, Playwright, TypeScript, Java, Cypress automation
+🧪 Skilled in AI/ML, Python, Selenium, Playwright, TypeScript, Java, Cypress Automation
 
-🔐 Passionate about quality assurance, automation, DevOps pipelines, and cybersecurity
+🔐 Passionate about Quality Assurance, Automation, DevOps pipelines, AI, and Cybersecurity
 
 👀 Lifelong learner, always curious and eager to acquire new knowledge
 
-💞️ Open to collaborations on QA, DevOps, and automation projects
+💞️ Open to collaborations on QA, DevOps, AI, and Automation Projects
 
 📫 Reach me at ola.koya1@gmail.com
 
