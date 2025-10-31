@@ -1,25 +1,25 @@
-👋 Hi, I’m Ola Koya (@olakoya)
+# 👋 Hi, I’m Ola Koya (@olakoya)
 
-🚀 Senior QA Engineer | DevOps Engineer | AI Enthusiast | Cybersecurity Enthusiast
+🚀 **Senior QA Engineer | DevOps Engineer | AI Enthusiast | Developer | Cybersecurity Enthusiast**
 
-💻 Certified DevOps Professional | Certified in Artificial Intelligence
+💻 *Certified DevOps Professional | Certified in Artificial Intelligence*
 
-🌱 Currently expanding my AI, DevOps and QA Engineering project portfolio
+🌱 Currently expanding my portfolio in **AI, DevOps, Developer and QA Engineering**
 
-🧪 Skilled in AI/ML, Python, Selenium, Playwright, TypeScript, Java, Cypress Automation
+🏗️ Actively building and developing a **private personal project** at the moment to showcase innovation and technical depth
 
-🔐 Passionate about Quality Assurance, Automation, DevOps pipelines, AI, and Cybersecurity
+🧪 Skilled in:
+- AI/ML, Python, Selenium, Playwright, JavaScript  
+- TypeScript, Java, HTML, Cypress Automation  
 
-👀 Lifelong learner, always curious and eager to acquire new knowledge
+🔐 Passionate about **Quality Assurance**, **Automation**, **DevOps Pipelines**, **Developing**, **AI**, and **Cybersecurity**
 
-💞️ Open to collaborations on QA, DevOps, AI, and Automation Projects
+👀 A lifelong learner, always curious and eager to acquire new knowledge
 
-📫 Reach me at ola.koya1@gmail.com
+💞️ Open to collaborations on **QA**, **DevOps**, **Developing**, **AI**, and **Automation** projects
 
-🙏🏾 In God I trust
+📫 Reach me at: **ola.koya1@gmail.com**
 
-🫶🏾 Thank you for stopping by my profile!
-<!---
-💎 olakoya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🙏🏾 *In God I trust*  
+
+🫶🏾 *Thank you for stopping by my profile!*
