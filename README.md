@@ -2,7 +2,7 @@
 
 💻 *BSc Hons in Software Engineering | Certified DevOps Professional | Certified in Artificial Intelligence*
 
-🚀 **Senior QA Engineer | DevOps Engineer | AI Enthusiast | Developer | Cybersecurity Enthusiast**
+🚀 **Senior QA Analyst Engineer | DevOps Engineer | AI Enthusiast | Developer | Cybersecurity Enthusiast**
 
 🌱 Currently expanding my portfolio in **AI, DevOps, Developer and QA Engineering**
 
